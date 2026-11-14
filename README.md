@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Vaishnavi Malireddy 👋</h1>
 
 <p align="center">
-  Student developer building <b>web apps</b> and <b>AI-powered tools</b> with JavaScript and Python.
+  I build <b>AI-powered apps</b> and help make <b>language models</b> better.<br>
+  RLHF &amp; LLM evaluation at Deccan AI · building with Python, FastAPI and JavaScript.
 </p>
 
 <p align="center">
