@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Vaishnavi Malireddy 👋</h1>
 
 <p align="center">
-  I build <b>AI-powered apps</b> and help make <b>language models</b> better.<br>
-  RLHF &amp; LLM evaluation at Deccan AI · building with Python, FastAPI and JavaScript.
+  I build <b>AI-powered applications</b> and practical <b>web tools</b> with Python, FastAPI and JavaScript.<br>
+  From LLM-driven skill assessment to Zero Trust security and real-time web apps.
 </p>
 
 <p align="center">
@@ -38,8 +38,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
 **Web, databases & cloud**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -58,8 +56,8 @@
 
 ### 🌱 Right now
 
-- Looking for internship opportunities in web and AI development
-- Learning more about LLM applications and secure backend design
+- Building more LLM-powered applications
+- Exploring secure backend design and data visualisation
 
 ### 📫 Get in touch
 
